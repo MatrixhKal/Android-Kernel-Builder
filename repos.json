@@ -1,9 +1,9 @@
 [  {
     "kernelSource": {
-      "name": "miku-KernelSU",
-      "repo": "https://github.com/PhamtomK12/kernel_xiaomi_odin",
-      "branch": "TDA",
-      "device": "odin"
+      "name": "DanceKernel-5.15",
+      "repo": "https://github.com/ZetLink/DanceKernel-5.15",
+      "branch": "main",
+      "device": "rhode"
     },
     "withKernelSU": true,
     "toolchains": [
@@ -14,7 +14,7 @@
       },
       {
         "repo": "https://gitlab.com/ThankYouMario/android_prebuilts_clang-standalone/",
-        "branch": "11",
+        "branch": "17",
         "name": "clang"
       }
     ],
