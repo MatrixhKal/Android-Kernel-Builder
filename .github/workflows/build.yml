@@ -42,7 +42,7 @@ jobs:
       kernelBranch: ${{ matrix.repos.kernelSource.branch }}
       kernelDevice: ${{ matrix.repos.kernelSource.device }}
 
-      DEFCONFIG_NAME: gki_defconfig vendor/bengal_GKI.config vendor/ext_config/moto-bengal.config vendor/ext_config/moto-bengal-gki.config vendor/ext_config/moto-bengal-rhode.config
+      DEFCONFIG_NAME: gki_defconfig 
 
       withKernelSU: ${{ matrix.repos.withKernelSU }}
     steps:
