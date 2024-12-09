@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
-      "name": "DanceKernel",
-      "repo": "https://github.com/ZetLink/DanceKernel",
+      "name": "TomKernel",
+      "repo": "https://github.com/Tomoms/android_kernel_motorola_sm6225",
       "branch": "main",
       "device": "rhode"
     },
