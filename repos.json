@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
-      "name": "DanceKernel-5.15",
-      "repo": "https://github.com/ZetLink/DanceKernel-5.15",
+      "name": "DanceKernel",
+      "repo": "https://github.com/ZetLink/DanceKernel",
       "branch": "main",
       "device": "rhode"
     },
