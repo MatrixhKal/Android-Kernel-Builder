@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "TomKernel",
       "repo": "https://github.com/Tomoms/android_kernel_motorola_sm6225",
-      "branch": "main",
+      "branch": "u",
       "device": "rhode"
     },
     "withKernelSU": false,
