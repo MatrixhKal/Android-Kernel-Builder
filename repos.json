@@ -1,11 +1,11 @@
 [  {
     "kernelSource": {
-      "name": "TomKernel",
-      "repo": "https://github.com/Tomoms/android_kernel_motorola_sm6225",
-      "branch": "u",
+      "name": "LineageOS",
+      "repo": "https://github.com/LineageOS/android_kernel_motorola_sm6225",
+      "branch": "lineage-21",
       "device": "rhode"
     },
-    "withKernelSU": false,
+    "withKernelSU": true,
     "toolchains": [
       {
         "repo": "https://android.googlesource.com/platform/prebuilts/gas/linux-x86",
