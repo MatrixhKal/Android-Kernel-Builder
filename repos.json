@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "LineageOS",
-      "repo": "https://github.com/ZetLink/android_kernel_motorola_sm6225",
+      "repo": "https://github.com/Tomoms/android_kernel_motorola_sm6225/tree/v",
       "branch": "main",
       "device": "rhode"
     },
