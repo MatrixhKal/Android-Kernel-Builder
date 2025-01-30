@@ -1,8 +1,8 @@
 [  {
     "kernelSource": {
-      "name": "TomKernel",
-      "repo": "https://github.com/Tomoms/android_kernel_motorola_sm6225/",
-      "branch": "v",
+      "name": "Matrixz",
+      "repo": "https://github.com/MatrixhKa/android_kernel_motorola_sm6225/",
+      "branch": "main",
       "device": "rhode"
     },
     "withKernelSU": false,
