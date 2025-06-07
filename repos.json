@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "Matrixz",
-      "repo": "https://github.com/ZetLink/DanceKernel/",
+      "repo": "https://github.com/SM6225-Motorola/DanceKernel/",
       "branch": "main",
       "device": "rhode"
     },
