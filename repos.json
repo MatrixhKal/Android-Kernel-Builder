@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "Matrixz",
-      "repo": "https://github.com/MatrixhKa/android_kernel_motorola_sm6225/",
+      "repo": "https://github.com/MatrixhKa/DanceKernel-Test/",
       "branch": "main",
       "device": "rhode"
     },
