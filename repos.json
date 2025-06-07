@@ -2,7 +2,7 @@
     "kernelSource": {
       "name": "Matrixz",
       "repo": "https://github.com/ZetLink/android_kernel_motorola_sm6225/",
-      "branch": "main",
+      "branch": "lineage-22.2",
       "device": "rhode"
     },
     "withKernelSU": false,
